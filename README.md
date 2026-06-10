@@ -14,3 +14,4 @@ Key docs:
 - `docs/WIREFRAMES.md` - low-fidelity page wireframes in ASCII form
 - `docs/COMPONENT_ARCHITECTURE.md` - frozen component tree and state ownership
 - `docs/GLOBAL_LAYOUT_ARCHITECTURE.md` - root layout, providers, and persistence rules
+- `docs/FRONTEND_FOUNDATION.md` - frozen frontend folder, naming, import, and state conventions
